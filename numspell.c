@@ -1,6 +1,3 @@
-/**
- * \author Serge Yuschenko
- */
 #ident "@(#) $Id$"
 
 #include <libgen.h>
